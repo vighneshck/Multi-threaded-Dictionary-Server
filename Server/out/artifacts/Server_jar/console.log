@@ -1,0 +1,25 @@
+
+
+DATE: 2019-09-13 TIME: 15:10:26
+Waiting for client connection:
+Client 1 has established a connection.
+Client 1 has closed the connection.
+
+
+DATE: 2019-09-13 TIME: 15:11:57
+Waiting for client connection:
+java.io.FileNotFoundException: dictionary1.json (No such file or directory)
+Enter a valid dictionary file.
+
+
+DATE: 2019-09-13 TIME: 15:12:42
+java.lang.NumberFormatException: For input string: "3000a"
+Enter a valid port number.
+
+
+DATE: 2019-09-13 TIME: 15:13:33
+Enter only 2 arguments.
+
+
+DATE: 2019-09-13 TIME: 15:14:32
+Waiting for client connection:
