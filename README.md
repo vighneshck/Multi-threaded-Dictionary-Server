@@ -1,7 +1,4 @@
 # Multi-threaded Dictionary Server
-Using client-server architecture, implemented a multi-threaded server that allows concurrent clients to query the meaning(s) of an existing word, add a new word and its meaning, as well as delete any existing word.
-
-### Running the Application
 
 To run the application on the server side, enter the following on the command line: 
 
